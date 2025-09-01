@@ -1,5 +1,7 @@
 # Jujutsu for everyone
 
+[Japanese(日本語)](README-ja.md)
+
 A Jujutsu tutorial that requires no previous experience with Git or other version control systems.
 
 It's rendered with [mdBook](https://github.com/rust-lang/mdBook) and hosted at [jj-for-everyone.github.io](https://jj-for-everyone.github.io).
